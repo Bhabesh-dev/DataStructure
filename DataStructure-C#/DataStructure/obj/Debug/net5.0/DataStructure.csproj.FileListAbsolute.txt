@@ -1,0 +1,16 @@
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\bin\Debug\net5.0\DataStructure.exe
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\bin\Debug\net5.0\DataStructure.deps.json
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.json
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.dev.json
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\bin\Debug\net5.0\DataStructure.dll
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\bin\Debug\net5.0\ref\DataStructure.dll
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\bin\Debug\net5.0\DataStructure.pdb
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.csproj.AssemblyReference.cache
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfoInputs.cache
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfo.cs
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.csproj.CoreCompileInputs.cache
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.dll
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\ref\DataStructure.dll
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.pdb
+G:\Bhabesh-Learning-Materials\DataStructure-C#\DataStructure\obj\Debug\net5.0\DataStructure.genruntimeconfig.cache
